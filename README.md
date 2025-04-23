@@ -2,9 +2,8 @@
 
 A machine learning-powered app to classify SMS or Email messages as **Spam** or **Not Spam**, built using Python, Streamlit, and NLP techniques.
 
-![App Screenshot](screenshot.png) <!-- Replace with actual screenshot if you have one -->
 
----
+
 
 ## 🚀 Features
 
